@@ -1,0 +1,2 @@
+# gnews
+sitio de noticias
